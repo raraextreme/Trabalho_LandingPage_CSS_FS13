@@ -43,4 +43,7 @@
 
 .card:hover {
     transform: translateY(-8px);
-}                       
+}    
+.img-card{
+    height: 300px;       
+    object-fit: cover;
